@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Hemachandra MS
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+%26+Microservices+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+Angular;Spring+%26+Microservices+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 ### 🎯 Java Standout Performer (Q1 2024) | Associate Software Engineer at Serole Info Technology
