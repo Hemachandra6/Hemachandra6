@@ -44,8 +44,12 @@ Q1 2024 Java Standout Performer at Serole Info Technology.
 🌱 Currently Learning
 Exploring Advanced Kafka Streams for complex event processing.
 Enhancing skills in Cloud Deployment and Container Orchestration using Kubernetes.
+
 📫 Get in Touch
+
 LinkedIn: https://www.linkedin.com/in/hemachandra-m-s-a3bb3b1ab/
+
 Email: hemachandra.ms6@gmail.com
+
 Feel free to connect or explore my projects!
 
