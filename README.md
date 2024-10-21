@@ -70,11 +70,11 @@ Java Backend Developer with expertise in Spring Frameworks and Microservices arc
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemachandra6&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=react" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemachandra6&theme=react" alt="GitHub Streak Stats" />
 </div>
 
 ## 🏆 Achievements
